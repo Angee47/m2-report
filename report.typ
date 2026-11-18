@@ -3,9 +3,9 @@
   margin: 2.5cm
 )
 
-#title[
-  Analysis of Telia From a Sustainability Perspective
-]
+// TODO figure out why this doesn't work on Macs
+= Analysis of Telia From a Sustainability Perspective
+
 Nils Konradsson \
 // (add your names here) \
 Luleå University of Technology
@@ -25,6 +25,14 @@ external voices, we will then analyse how well it is handling these challenges.
 = Sustainability Challenges
 
 // ~500 words identifying at least 5 separate challenges
+
+// TODO do not include in final report
+These are the challenges faced by Telia:
+- Point 1
+- Point 2
+- Point 3
+- Point 4
+- Point 5
 
 = Sustainability Work of the Company
 
