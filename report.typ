@@ -7,6 +7,7 @@
 = Analysis of Telia From a Sustainability Perspective
 
 Nils Konradsson \
+André Angeria \
 // (add your names here) \
 Luleå University of Technology
 
